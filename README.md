@@ -79,7 +79,30 @@ LAMP OFF:
 
 
 
+
+
 LAMP ON:
+
+
+
+
+
+
+
+
+
+
+![lamp on](https://github.com/user-attachments/assets/05a54166-b736-4fee-b3cd-0463318783ab)
+
+
+
+
+
+
+
+
+
+
 
 ## RESULT:
 
