@@ -70,6 +70,8 @@ delay(1000);
 
 
 ## OUTPUT:
+LAMP OFF:
+[lamp off](https://github.com/user-attachments/assets/61277d7a-5f5e-44cc-a73b-f9d6c8f74af6)
 
 ## RESULT:
 
