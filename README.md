@@ -47,12 +47,12 @@ In this Arduino  Relay Control Circuit we have used Arduino to control the relay
 
 
 void setup()
+
 {
 
-
 pinMode(A0,OUTPUT);
-}
 
+}
 
 void loop()
 {
@@ -60,14 +60,12 @@ void loop()
 
 digitalWrite(A0,HIGH);
 
-
 delay(1000);
-
 
 digitalWrite(A0,LOW);
 
-
 delay(1000);
+
 }
 
 
